@@ -8,7 +8,7 @@ Kurzfristige Ziele
 Langfristige Ziele
 -
 * Daten des Projekts zu den [Correspsearch](https://correspsearch.net/index.xql?l=de) und [Kalliope](https://kalliope-verbund.info/) Plattformen integrieren.
-* Automatische Transkription der Dokumente des Projekts mit Hilfe eines OCR-System ([Kraken](http://kraken.re/) ou [Transkribus](https://transkribus.eu/lite/de)).
+* Automatische Transkription der Dokumente des Projekts mit Hilfe eines OCR-System ([Kraken](http://kraken.re/) oder [Transkribus](https://transkribus.eu/lite/de)).
 * Einführung eines BürgerwissenschaftProjekts um die Korrektur der Dokumente auszuführen.
 
 Objectifs
