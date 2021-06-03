@@ -1898,7 +1898,7 @@ Juvenal,"['https://viaf.org/viaf/83985148', 'http://d-nb.info/gnd/118556126', 'h
 "La Chabeaussière, Silva Poisson de",,3846,gnd
 "La Chassaigne, Madame de",,5273,gnd
 "La Coste, Monsieur de",,5697,gnd
-"La Fayette, Georges Washington de",,5658,gnd
+"La Fayette, Georges Washington de","['https://viaf.org/viaf/59382921', 'http://catalogue.bnf.fr/ark:/12148/cb151139938', 'https://www.wikidata.org/wiki/Q3103643', 'https://isni.org/isni/0000000083864453', 'http://id.loc.gov/authorities/names/n87913832']",5658,gnd
 "La Fayette, Joseph du Motier, marquis de","['http://dbpedia.org/resource/Gilbert_du_Motier,_marquis_de_Lafayette', 'http://id.loc.gov/rwo/agents/n80038471', 'http://isni.org/isni/0000000122773264', 'http://viaf.org/viaf/22144104', 'http://www.portraitindex.de/dokumente/pnd/118725920', 'http://www.wikidata.org/entity/Q186652', 'https://d-nb.info/gnd/1055260463', 'https://d-nb.info/gnd/1157643701', 'https://d-nb.info/gnd/118725920/about', 'https://de.wikipedia.org/wiki/Marie-Joseph_Motier%2C_Marquis_de_La_Fayette', 'https://en.wikipedia.org/wiki/Gilbert_du_Motier%2C_Marquis_de_Lafayette', 'https://kalliope-verbund.info/gnd/118725920', 'https://www.archivportal-d.de/person/gnd/118725920', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/118725920']",3251,gnd
 "La Fayette, Madame de, eigentl. Marie-Madeleine Pioche de La Vergne, comtesse de","['http://dbpedia.org/resource/Madame_de_La_Fayette', 'http://id.loc.gov/rwo/agents/n81103469', 'http://isni.org/isni/0000000122831647', 'http://viaf.org/viaf/95237212', 'http://www.portraitindex.de/dokumente/pnd/118725939', 'http://www.wikidata.org/entity/Q237090', 'https://d-nb.info/gnd/1030264295', 'https://d-nb.info/gnd/118725939/about', 'https://d-nb.info/gnd/186351801', 'https://de.wikipedia.org/wiki/Marie-Madeleine_de_La_Fayette', 'https://de.wikisource.org/wiki/Marie-Madeleine_de_La_Fayette', 'https://en.wikipedia.org/wiki/Madame_de_La_Fayette', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/118725939']",2347,gnd
 "La Ferté, Madame de",,5057,gnd
@@ -1933,7 +1933,7 @@ La Place (Siehe Laplace),,6625,gnd
 La Valette (Siehe Sourdille de La Valette),,3495,gnd
 "La Vallière, Louise Françoise de La Baume Le Blanc, duchesse de","['http://catalogue.bnf.fr/ark:/12148/cb126172405', 'http://dbpedia.org/resource/Louise_de_La_Valli%C3%A8re', 'http://id.loc.gov/rwo/agents/n85196368', 'http://isni.org/isni/0000000453048702', 'http://viaf.org/viaf/61667501', 'http://www.portraitindex.de/dokumente/pnd/118640356', 'http://www.wikidata.org/entity/Q232125', 'https://d-nb.info/gnd/118640356/about', 'https://d-nb.info/gnd/172219825', 'https://d-nb.info/gnd/187567794', 'https://de.wikipedia.org/wiki/Louise_de_La_Valli%C3%A8re', 'https://en.wikipedia.org/wiki/Louise_de_La_Valli%C3%A8re', 'https://kalliope-verbund.info/gnd/118640356', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/118640356']",2605,gnd
 "Laach, Fräulein (Hausangestellte oder Gesellschafterin ?)",,5574,gnd
-"Labbey de Pompières, Guillaume-Xavier",,6179,gnd
+"Labbey de Pompières, Guillaume-Xavier","['https://viaf.org/viaf/139148933446154301022', 'https://www.wikidata.org/wiki/Q3119621', 'https://isni.org/isni/0000000459838481']",6179,gnd
 "Laborde, Alexandre de","['http://id.loc.gov/rwo/agents/n80094383', 'http://isni.org/isni/0000000122776713', 'http://viaf.org/viaf/121808105', 'http://www.portraitindex.de/dokumente/pnd/117571326', 'http://www.wikidata.org/entity/Q2362791', 'https://d-nb.info/gnd/1090308760', 'https://d-nb.info/gnd/117571326/about', 'https://d-nb.info/gnd/178442186', 'https://d-nb.info/gnd/18188688X', 'https://de.wikipedia.org/wiki/Alexandre_de_Laborde', 'https://en.wikipedia.org/wiki/Alexandre_de_Laborde', 'https://kalliope-verbund.info/gnd/117571326', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/117571326']",3754,gnd
 "Labouïsse-Rochefort, Jean-Pierre-Jacques-Auguste de","['http://catalogue.bnf.fr/ark:/12148/cb10741601f', 'http://isni.org/isni/0000000357937083', 'http://viaf.org/viaf/204200570', 'http://www.wikidata.org/entity/Q3168910', 'https://d-nb.info/gnd/116638206/about', 'https://kalliope-verbund.info/gnd/116638206']",1980,gnd
 "Labouïsse-Rochefort, Madame de",,3956,gnd
@@ -1941,7 +1941,7 @@ La Valette (Siehe Sourdille de La Valette),,3495,gnd
 "Labrouste, Alexandre","['http://catalogue.bnf.fr/ark:/12148/cb125393018', 'http://id.loc.gov/rwo/agents/n86004767', 'http://isni.org/isni/0000000028382849', 'http://viaf.org/viaf/19790417', 'http://www.wikidata.org/entity/Q19629490', 'https://d-nb.info/gnd/130585440/about']",3450,gnd
 "Lacépède, Bernard Germain de","['http://catalogue.bnf.fr/ark:/12148/cb12027512x', 'http://dbpedia.org/resource/Bernard_Germain_de_Lac%C3%A9p%C3%A8de', 'http://id.loc.gov/rwo/agents/n86825908', 'http://isni.org/isni/0000000108778050', 'http://viaf.org/viaf/22156296', 'http://www.portraitindex.de/dokumente/pnd/11909813X', 'http://www.wikidata.org/entity/Q313363', 'https://d-nb.info/gnd/11909813X/about', 'https://d-nb.info/gnd/160794439', 'https://d-nb.info/gnd/181804441', 'https://de.wikipedia.org/wiki/Bernard_Germain_Lac%C3%A9p%C3%A8de', 'https://en.wikipedia.org/wiki/Bernard_Germain_de_Lac%C3%A9p%C3%A8de', 'https://kalliope-verbund.info/gnd/11909813X', 'https://www.archivportal-d.de/person/gnd/11909813X', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/11909813X']",3975,gnd
 "Lacépède, Madame de",,3843,gnd
-"Lachenais, Marie-Madeleine, in 1. Ehe Pétion, in 2. Ehe Boyer",,6496,gnd
+"Lachenais, Marie-Madeleine, in 1. Ehe Pétion, in 2. Ehe Boyer",['https://www.wikidata.org/wiki/Q4960435'],6496,gnd
 "Lacretelle, Charles de, gen. le Jeune","['http://catalogue.bnf.fr/ark:/12148/cb121687341', 'http://id.loc.gov/rwo/agents/no96043752', 'http://isni.org/isni/000000012129750X', 'http://viaf.org/viaf/41880817', 'http://www.portraitindex.de/dokumente/pnd/11664107X', 'http://www.wikidata.org/entity/Q2279426', 'https://d-nb.info/gnd/11664107X/about', 'https://d-nb.info/gnd/181805065', 'https://de.wikipedia.org/wiki/Charles_de_Lacretelle', 'https://en.wikipedia.org/wiki/Jean_Charles_Dominique_de_Lacretelle', 'https://kalliope-verbund.info/gnd/11664107X', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/11664107X']",1981,gnd
 "Lacroix, Gauthier",,5296,gnd
 "Lacroix, Madame Pamphile de",,6675,gnd
@@ -1949,12 +1949,12 @@ La Valette (Siehe Sourdille de La Valette),,3495,gnd
 "Lacroix, Paul","['http://id.loc.gov/rwo/agents/n50041327', 'http://isni.org/isni/0000000453021745', 'http://viaf.org/viaf/147144783025325423807', 'http://viaf.org/viaf/295319910', 'http://www.wikidata.org/entity/Q1607626', 'https://d-nb.info/gnd/104045124/about', 'https://en.wikipedia.org/wiki/Philip_Jacob_%28priest%29', 'https://kalliope-verbund.info/gnd/104045124', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/104045124']",5472,gnd
 "Ladoucette, Amélie de (Siehe Plancy)",,6626,gnd
 "Ladoucette, baron de",,5662,gnd
-"Ladoucette, Émilie Thibaut, baronne de (Ehefrau von Charles Louis)",,3280,gnd
-"Ladoucette, Eugène de",,5684,gnd
+"Ladoucette, Émilie Thibaut, baronne de (Ehefrau von Charles Louis)",['https://viaf.org/viaf/1158159234729003372461'],3280,gnd
+"Ladoucette, Eugène de","['https://viaf.org/viaf/73844836', 'http://catalogue.bnf.fr/ark:/12148/cb107221832']",5684,gnd
 "Ladoucette, Familie de",,5797,gnd
 "Ladoucette, Jean Charles François, baron de","['http://catalogue.bnf.fr/ark:/12148/cb128151115', 'http://id.loc.gov/rwo/agents/no2003086665', 'http://isni.org/isni/0000000117740062', 'http://viaf.org/viaf/89245444', 'http://www.wikidata.org/entity/Q1685423', 'https://d-nb.info/gnd/116643919/about', 'https://de.wikipedia.org/wiki/Jean_Charles_Fran%C3%A7ois_de_Ladoucette', 'https://kalliope-verbund.info/gnd/116643919', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/116643919']",2701,gnd
 "Ladoucette, Julie de, geb. Arnout-Perré (Ehefrau von Eugène)",,6180,gnd
-"Ladoucette, Louis Napoléon Laetitia Charles de (Sohn von Jean Charles François)",,2159,gnd
+"Ladoucette, Louis Napoléon Laetitia Charles de (Sohn von Jean Charles François)","['https://viaf.org/viaf/34591961', 'https://www.wikidata.org/wiki/Q2958181', 'https://isni.org/isni/000000000023043X', 'http://catalogue.bnf.fr/ark:/12148/cb13009854w']",2159,gnd
 "Ladoucette, Mademoiselle de",,5439,gnd
 "Ladoucette, Monsieur de",,3697,gnd
 "Ladoucette, Monsieur de (Sohn des Jean Charles François)",,5483,gnd
@@ -1984,7 +1984,7 @@ Lafayette (Siehe La Fayette),,6627,gnd
 "Lalouche, Madame",,6039,gnd
 "Lamardelle, Familie de",,5834,gnd
 "Lamardelle, Madame de",,5786,gnd
-"Lamardelle, Pierre Suzanne Marie, baron de",,4810,gnd
+"Lamardelle, Pierre Suzanne Marie, baron de",['https://www.wikidata.org/wiki/Q21334401'],4810,gnd
 "Lamartine, Alix de","['http://catalogue.bnf.fr/ark:/12148/cb11910799w', 'http://id.loc.gov/rwo/agents/n85101214', 'http://isni.org/isni/0000000083633129', 'http://viaf.org/viaf/22144307', 'http://www.wikidata.org/entity/Q2837302', 'https://d-nb.info/gnd/136386857/about']",2920,gnd
 "Lamartine, Alphonse de","['http://dbpedia.org/resource/Alphonse_de_Lamartine', 'http://id.loc.gov/rwo/agents/n79127759', 'http://isni.org/isni/0000000121441161', 'http://viaf.org/viaf/95150108', 'http://www.hls-dhs-dss.ch/textes/d/D41458.php', 'http://www.portraitindex.de/dokumente/pnd/118726056', 'http://www.wikidata.org/entity/Q188697', 'https://d-nb.info/gnd/118726056/about', 'https://d-nb.info/gnd/186404956', 'https://de.wikipedia.org/wiki/Alphonse_de_Lamartine', 'https://en.wikipedia.org/wiki/Alphonse_de_Lamartine', 'https://kalliope-verbund.info/gnd/118726056', 'https://www.archivportal-d.de/person/gnd/118726056', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/118726056']",4603,gnd
 "Lambla, Mademoiselle",,5321,gnd
@@ -2018,17 +2018,17 @@ Lancival (Siehe Luce de Lancival),"['http://id.loc.gov/rwo/agents/n83056662', 'h
 "Laplace, Pierre-Simon de","['http://catalogue.bnf.fr/ark:/12148/cb119110516', 'http://dbpedia.org/resource/Pierre-Simon_Laplace', 'http://id.loc.gov/rwo/agents/n81077094', 'http://isni.org/isni/0000000122758822', 'http://viaf.org/viaf/4932158', 'http://www.portraitindex.de/dokumente/pnd/118726536', 'http://www.wikidata.org/entity/Q44481', 'https://d-nb.info/gnd/118726536/about', 'https://d-nb.info/gnd/160411963', 'https://d-nb.info/gnd/186304560', 'https://d-nb.info/gnd/186439687', 'https://d-nb.info/gnd/186794002', 'https://de.wikipedia.org/wiki/Pierre-Simon_Laplace', 'https://de.wikisource.org/wiki/Pierre-Simon_de_Laplace', 'https://en.wikipedia.org/wiki/Pierre-Simon_Laplace', 'https://kalliope-verbund.info/gnd/118726536', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/118726536']",4180,gnd
 "Larche, P. J.",,5331,gnd
 "Larcher de Chamont, François, chevalier",,4324,gnd
-"Lardin, Jules",,6584,gnd
-"Larive, Jean-Marie Mauduit, gen.",,6167,gnd
+"Lardin, Jules",['https://viaf.org/viaf/120152742895927730922'],6584,gnd
+"Larive, Jean-Marie Mauduit, gen.","['https://viaf.org/viaf/15011426', 'https://isni.org/isni/0000000079842809', 'http://d-nb.info/gnd/11679951X', 'https://catalogue.bnf.fr/ark:/12148/cb145445749']",6167,gnd
 "Larive, Monsieur (Sohn des Schauspielers)",,6168,gnd
 "Larnac, Monsieur",,3517,gnd
 "Larrey, Dominique Jean","['http://dbpedia.org/resource/Dominique_Jean_Larrey', 'http://id.loc.gov/rwo/agents/n50056982', 'http://isni.org/isni/000000012095773X', 'http://viaf.org/viaf/24680693', 'http://www.portraitindex.de/dokumente/pnd/119352885', 'http://www.wikidata.org/entity/Q468413', 'https://d-nb.info/gnd/119352885/about', 'https://de.wikipedia.org/wiki/Dominique_Jean_Larrey', 'https://en.wikipedia.org/wiki/Dominique_Jean_Larrey', 'https://kalliope-verbund.info/gnd/119352885', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/119352885']",2930,gnd
 "Larsonneur, Hippolyte (Geiger)","['http://viaf.org/viaf/70153953226105561747', 'https://d-nb.info/gnd/1168924464/about', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/1168924464']",4989,gnd
 "Las Cases, Emmanuel de","['http://catalogue.bnf.fr/ark:/12148/cb12215396w', 'http://isni.org/isni/0000000073096526', 'http://viaf.org/viaf/4980954', 'http://www.wikidata.org/entity/Q15969147', 'https://d-nb.info/gnd/119135558/about', 'https://de.wikipedia.org/wiki/Emmanuel_Pons_Dieudonn%C3%A9_de_Las_Cases', 'https://kalliope-verbund.info/gnd/119135558']",4573,gnd
 "Las Cases, Emmanuel Pons (?) de","['http://catalogue.bnf.fr/ark:/12148/cb12215396w', 'http://isni.org/isni/0000000073096526', 'http://viaf.org/viaf/4980954', 'http://www.wikidata.org/entity/Q15969147', 'https://d-nb.info/gnd/119135558/about', 'https://de.wikipedia.org/wiki/Emmanuel_Pons_Dieudonn%C3%A9_de_Las_Cases', 'https://kalliope-verbund.info/gnd/119135558']",6476,gnd
-"Lascours, General Fortuné Reynaud de Bologne de",,6428,gnd
+"Lascours, General Fortuné Reynaud de Bologne de","['https://viaf.org/viaf/313536857', 'https://www.wikidata.org/wiki/Q2385760']",6428,gnd
 "Lasteyrie du Saillant, marquise, geb. Marie-Antoinette-Virginie de La Fayette","['http://catalogue.bnf.fr/ark:/12148/cb134917698', 'http://id.loc.gov/rwo/agents/n96080365', 'http://isni.org/isni/0000000110552261', 'http://viaf.org/viaf/37070832', 'https://d-nb.info/gnd/124825648/about']",3359,gnd
-Lastheneia von Mantineia,,2952,gnd
+Lastheneia von Mantineia,['https://www.wikidata.org/wiki/Q288467'],2952,gnd
 "Latapy, Monsieur de",,4342,gnd
 "Lathum, Graf von",,3910,gnd
 "Latil, Monsieur",,3050,gnd
@@ -2043,12 +2043,12 @@ Lastheneia von Mantineia,,2952,gnd
 "Lauriston, colonel de",,5766,gnd
 "Lauriston, Madame de",,5767,gnd
 "Lautard, Jean-Baptiste","['http://isni.org/isni/0000000061345396', 'http://viaf.org/viaf/4932266', 'https://d-nb.info/gnd/1067648534/about']",3266,gnd
-"Lautour-Mézeray, Charles",,3283,gnd
+"Lautour-Mézeray, Charles","['https://viaf.org/viaf/165555660', 'http://catalogue.bnf.fr/ark:/12148/cb10668707q', 'https://isni.org/isni/0000000113370092', 'https://www.wikidata.org/wiki/Q2959582']",3283,gnd
 "Lavalette, Antoine Marie Chamans, comte de","['http://catalogue.bnf.fr/ark:/12148/cb12435101k', 'http://id.loc.gov/rwo/agents/n88648689', 'http://isni.org/isni/0000000110551162', 'http://viaf.org/viaf/37009541', 'http://www.portraitindex.de/dokumente/pnd/119001063', 'http://www.wikidata.org/entity/Q1961152', 'https://d-nb.info/gnd/1055269703', 'https://d-nb.info/gnd/119001063/about', 'https://de.wikipedia.org/wiki/Antoine_Marie_Chamans%2C_comte_de_Lavalette', 'https://en.wikipedia.org/wiki/Antoine_Marie_Chamans%2C_comte_de_Lavalette', 'https://kalliope-verbund.info/gnd/119001063', 'https://www.archivportal-d.de/person/gnd/119001063', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/119001063']",4386,gnd
 "Lavalette, Antoine Marie Joseph Chamans, comte de","['http://catalogue.bnf.fr/ark:/12148/cb12435101k', 'http://id.loc.gov/rwo/agents/n88648689', 'http://isni.org/isni/0000000110551162', 'http://viaf.org/viaf/37009541', 'http://www.portraitindex.de/dokumente/pnd/119001063', 'http://www.wikidata.org/entity/Q1961152', 'https://d-nb.info/gnd/1055269703', 'https://d-nb.info/gnd/119001063/about', 'https://de.wikipedia.org/wiki/Antoine_Marie_Chamans%2C_comte_de_Lavalette', 'https://en.wikipedia.org/wiki/Antoine_Marie_Chamans%2C_comte_de_Lavalette', 'https://kalliope-verbund.info/gnd/119001063', 'https://www.archivportal-d.de/person/gnd/119001063', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/119001063']",2872,gnd
 "Lavalette, Émilie de, geb. de Beauharnais","['http://viaf.org/viaf/35385269', 'http://www.portraitindex.de/dokumente/pnd/124279600', 'https://d-nb.info/gnd/124279600/about', 'https://en.wikipedia.org/wiki/%C3%89milie_de_Beauharnais', 'https://www.archivportal-d.de/person/gnd/124279600', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/124279600']",2873,gnd
 "Lavalette, Monsieur",,5782,gnd
-"Lavallée, Athanase",,3833,gnd
+"Lavallée, Athanase","['https://viaf.org/viaf/29148120628394791340', 'http://catalogue.bnf.fr/ark:/12148/cb17089042w']",3833,gnd
 "Lavollée, Monsieur",,5955,gnd
 "Laya, Aglaé, in zweiter Ehe Comte","['http://viaf.org/viaf/42152636120120051896', 'https://d-nb.info/gnd/1157468330/about']",1988,gnd
 "Laya, Alexandre","['http://catalogue.bnf.fr/ark:/12148/cb134976741', 'http://id.loc.gov/rwo/agents/n85252205', 'http://isni.org/isni/0000000108674016', 'http://viaf.org/viaf/7543772', 'http://www.wikidata.org/entity/Q55901977', 'https://d-nb.info/gnd/116847174/about', 'https://kalliope-verbund.info/gnd/116847174', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/116847174']",2231,gnd
@@ -2075,7 +2075,7 @@ Le Messager de Nice,,6662,gnd
 "Leblanc, Urbain (Tierarzt)","['http://catalogue.bnf.fr/ark:/12148/cb16987137h', 'http://isni.org/isni/0000000439651601', 'http://viaf.org/viaf/198829724', 'http://www.wikidata.org/entity/Q3552166', 'https://d-nb.info/gnd/1049546725/about']",2675,gnd
 "Leblond, Gaspard Michel, gen. abbé","['http://catalogue.bnf.fr/ark:/12148/cb10692820c', 'http://id.loc.gov/rwo/agents/nr96027423', 'http://isni.org/isni/0000000083436678', 'http://viaf.org/viaf/52585055', 'http://www.wikidata.org/entity/Q3098783', 'https://d-nb.info/gnd/122979176/about', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/122979176']",3862,gnd
 "Lebon de Mottes, Général",,5750,gnd
-"Lebras, Auguste",,3731,gnd
+"Lebras, Auguste","['https://viaf.org/viaf/306252637', 'https://www.wikidata.org/wiki/Q42219238', 'http://id.loc.gov/authorities/names/no98116279']",3731,gnd
 "Lebreton, Joachim","['http://id.loc.gov/rwo/agents/n88138916', 'http://isni.org/isni/000000012276267X', 'http://viaf.org/viaf/9874390', 'http://www.wikidata.org/entity/Q3179480', 'https://d-nb.info/gnd/117613010/about', 'https://en.wikipedia.org/wiki/Joachim_Lebreton', 'https://kalliope-verbund.info/gnd/117613010', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/117613010']",4336,gnd
 Lebrun,,3635,gnd
 "Lebrun Pindare, eigentl. Ponce-Denis Écouchard-Lebrun","['http://dbpedia.org/resource/Ponce_Denis_%C3%89couchard_Lebrun', 'http://id.loc.gov/rwo/agents/n90681836', 'http://isni.org/isni/0000000121201344', 'http://viaf.org/viaf/9857083', 'http://www.portraitindex.de/dokumente/pnd/116859539', 'http://www.wikidata.org/entity/Q537788', 'https://d-nb.info/gnd/116859539/about', 'https://de.wikipedia.org/wiki/Ponce-Denis_%C3%89couchard-Lebrun', 'https://en.wikipedia.org/wiki/Ponce_Denis_%C3%89couchard_Lebrun', 'https://kalliope-verbund.info/gnd/116859539', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/116859539']",3143,gnd
@@ -2108,7 +2108,7 @@ Lecharlier (Verleger in Brüssel),"['http://viaf.org/viaf/2471153184543427100004
 "Legay, Xavier (Hausangestellter)",,5443,gnd
 "Legendre, Monsieur (Adrien-Marie?)","['http://catalogue.bnf.fr/ark:/12148/cb12443375d', 'http://dbpedia.org/resource/Adrien-Marie_Legendre', 'http://id.loc.gov/rwo/agents/n84806552', 'http://isni.org/isni/0000000121464435', 'http://viaf.org/viaf/106967132', 'http://www.portraitindex.de/dokumente/pnd/118779249', 'http://www.wikidata.org/entity/Q191021', 'https://d-nb.info/gnd/118779249/about', 'https://de.wikipedia.org/wiki/Adrien-Marie_Legendre', 'https://en.wikipedia.org/wiki/Adrien-Marie_Legendre', 'https://kalliope-verbund.info/gnd/118779249', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/118779249']",6013,gnd
 "Léger, Monsieur (berühmter Schachspieler)",,3597,gnd
-"Legouvé, Adélaïde, geb. Sauvan (Ehefrau des Gabriel-Marie)",,2280,gnd
+"Legouvé, Adélaïde, geb. Sauvan (Ehefrau des Gabriel-Marie)",['https://viaf.org/viaf/84159032778301182708'],2280,gnd
 "Legouvé, Gabriel-Marie","['http://catalogue.bnf.fr/ark:/12148/cb11912181n', 'http://dbpedia.org/resource/Gabriel-Marie_Legouv%C3%A9', 'http://id.loc.gov/rwo/agents/nr92025698', 'http://isni.org/isni/0000000120957414', 'http://viaf.org/viaf/22144686', 'http://www.portraitindex.de/dokumente/pnd/100506178', 'http://www.wikidata.org/entity/Q1488840', 'https://d-nb.info/gnd/100506178/about', 'https://de.wikipedia.org/wiki/Gabriel-Marie_Legouv%C3%A9', 'https://en.wikipedia.org/wiki/Gabriel-Marie_Legouv%C3%A9', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/100506178']",1992,gnd
 "Legros, Elisa",,4973,gnd
 "Legros, Madame (Mutter von Elisa Legros)",,4974,gnd
@@ -2116,7 +2116,7 @@ Lecharlier (Verleger in Brüssel),"['http://viaf.org/viaf/2471153184543427100004
 "Leickham, Familie",,5816,gnd
 "Leickham, Frau",,6055,gnd
 "Leickham, Werner",,5774,gnd
-"Lelarge, J. Beuzeville, gen.",,4333,gnd
+"Lelarge, J. Beuzeville, gen.",['https://viaf.org/viaf/420160483938604992646'],4333,gnd
 "Lelièvre [?], Monsieur",,4182,gnd
 "Lemaire, Charles","['http://dbpedia.org/resource/Charles_Antoine_Lemaire', 'http://id.loc.gov/rwo/agents/no2004046842', 'http://isni.org/isni/0000000081195436', 'http://viaf.org/viaf/40141579', 'http://www.wikidata.org/entity/Q942880', 'https://d-nb.info/gnd/116890878/about', 'https://de.wikipedia.org/wiki/Charles_Lemaire', 'https://en.wikipedia.org/wiki/Charles_Antoine_Lemaire', 'https://kalliope-verbund.info/gnd/116890878']",4166,gnd
 "Lemaire, Monsieur (Zahnarzt in Paris)",,3813,gnd
@@ -2144,16 +2144,16 @@ Lecharlier (Verleger in Brüssel),"['http://viaf.org/viaf/2471153184543427100004
 Léon (Hausangestellter?),,5560,gnd
 Leonhard (Hausangestellter),,5442,gnd
 "Leopold I., König von Belgien","['http://catalogue.bnf.fr/ark:/12148/cb120791308', 'http://dbpedia.org/resource/Leopold_I_of_Belgium', 'http://id.loc.gov/rwo/agents/n82137116', 'http://isni.org/isni/0000000061309942', 'http://viaf.org/viaf/17247514', 'http://www.deutsche-biographie.de/pnd118571842.html#ndbcontent', 'http://www.portraitindex.de/dokumente/pnd/118571842', 'http://www.wikidata.org/entity/Q12971', 'https://d-nb.info/gnd/1057500151', 'https://d-nb.info/gnd/118571842/about', 'https://de.wikipedia.org/wiki/Leopold_I._%28Belgien%29', 'https://en.wikipedia.org/wiki/Leopold_I_of_Belgium', 'https://kalliope-verbund.info/gnd/118571842', 'https://www.archivportal-d.de/person/gnd/118571842', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/118571842']",2516,gnd
-"Lepeintre, Charles Emmanuel",,2692,gnd
+"Lepeintre, Charles Emmanuel","['https://viaf.org/viaf/59345241', 'https://www.wikidata.org/wiki/Q55035140', 'http://catalogue.bnf.fr/ark:/12148/cb14653920m', 'https://isni.org/isni/0000000001181705']",2692,gnd
 "Leroy (de Bacre?), Madame",,6022,gnd
 "Leroy de Bacre, Alexandre Joseph","['http://viaf.org/viaf/273152636134320051723', 'https://d-nb.info/gnd/1157583768/about']",1995,gnd
-"Leroy de Bacre, Félicie, geb. Dalpayet",,3672,gnd
+"Leroy de Bacre, Félicie, geb. Dalpuget",,3672,gnd
 "Leroy, Alphonse","['http://viaf.org/viaf/47152636061420050540', 'https://d-nb.info/gnd/1157620612/about']",6144,gnd
 "Leroy, Hippolyte","['http://catalogue.bnf.fr/ark:/12148/cb148431943', 'http://id.loc.gov/rwo/agents/n88607712', 'http://isni.org/isni/0000000029857631', 'http://viaf.org/viaf/264269080', 'https://d-nb.info/gnd/142488720/about']",4451,gnd
 "Lesage, Alain-René","['http://catalogue.bnf.fr/ark:/12148/cb11912638w', 'http://dbpedia.org/resource/Alain-Ren%C3%A9_Lesage', 'http://id.loc.gov/rwo/agents/n81013473', 'http://isni.org/isni/0000000121258113', 'http://viaf.org/viaf/29536937', 'http://www.portraitindex.de/dokumente/pnd/118572032', 'http://www.wikidata.org/entity/Q267962', 'https://d-nb.info/gnd/118572032/about', 'https://d-nb.info/gnd/131018922', 'https://d-nb.info/gnd/158480953', 'https://d-nb.info/gnd/158666828', 'https://d-nb.info/gnd/159971748', 'https://d-nb.info/gnd/17064734X', 'https://d-nb.info/gnd/174043031', 'https://d-nb.info/gnd/186502923', 'https://de.wikipedia.org/wiki/Alain-Ren%C3%A9_Lesage', 'https://en.wikipedia.org/wiki/Alain-Ren%C3%A9_Lesage', 'https://kalliope-verbund.info/gnd/118572032', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/118572032']",2808,gnd
 "Lescallier, Daniel, baron","['http://catalogue.bnf.fr/ark:/12148/cb125288972', 'http://id.loc.gov/rwo/agents/no91018878', 'http://isni.org/isni/000000006300371X', 'http://viaf.org/viaf/44408742', 'http://www.wikidata.org/entity/Q3014325', 'https://d-nb.info/gnd/131965077/about', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/131965077']",1997,gnd
 "Leschenault de La Tour, Jean Baptiste","['http://dbpedia.org/resource/Jean_Baptiste_Leschenault_de_la_Tour', 'http://id.loc.gov/rwo/agents/no2011094579', 'http://isni.org/isni/0000000120264087', 'http://viaf.org/viaf/57042804', 'http://www.wikidata.org/entity/Q1684666', 'https://d-nb.info/gnd/104138289/about', 'https://de.wikipedia.org/wiki/Jean-Baptiste_Leschenault_de_La_Tour', 'https://en.wikipedia.org/wiki/Jean-Baptiste_Leschenault_de_La_Tour']",1998,gnd
-"Lesguillon, Hermance",,3288,gnd
+"Lesguillon, Hermance","['https://viaf.org/viaf/196624629', 'https://www.wikidata.org/wiki/Q3134116', 'https://isni.org/isni/0000000385632746', 'http://catalogue.bnf.fr/ark:/12148/cb14582039r']",3288,gnd
 "Lesguillon, Jean-Pierre","['http://catalogue.bnf.fr/ark:/12148/cb13005667q', 'http://id.loc.gov/rwo/agents/n87842350', 'http://isni.org/isni/0000000118842220', 'http://viaf.org/viaf/24735499', 'http://www.wikidata.org/entity/Q3169505', 'https://d-nb.info/gnd/100509266/about', 'https://de.wikipedia.org/wiki/Jean-Pierre_Lesguillon', 'https://en.wikipedia.org/wiki/Jean-Pierre_Lesguillon', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/100509266']",4484,gnd
 "Lesguillon, Jules",,4493,gnd
 "Lesourd, Edmond",,2745,gnd
@@ -2211,20 +2211,20 @@ Leonhard (Hausangestellter),,5442,gnd
 "Loë, Therese von",,3233,gnd
 "Löwe, Herr (deutscher Wissenschaftler)",,6240,gnd
 "Löwenhielm, Carl Axel","['http://id.loc.gov/rwo/agents/nr97022022', 'http://isni.org/isni/0000000052761291', 'http://viaf.org/viaf/26970463', 'http://www.wikidata.org/entity/Q1069154', 'https://d-nb.info/gnd/1172012261/about', 'https://de.wikipedia.org/wiki/Carl_Axel_L%C3%B6wenhielm', 'https://en.wikipedia.org/wiki/Carl_L%C3%B6wenhielm', 'https://kalliope-verbund.info/gnd/1172012261']",6457,gnd
-"Löwenhielm, Jacquette Gräfin",,3556,gnd
+"Löwenhielm, Jacquette Gräfin",['https://www.wikidata.org/wiki/Q431364'],3556,gnd
 "Löwenich, Caroline von",,6592,gnd
 "Löwenich, Frau von",,5493,gnd
 "Löwenstein, Maria Prinzessin zu",,5705,gnd
 "Loison, Aimée-Anne-Marguerite-Henriette, comtesse de, geb. Prous (Schwester von Henry Prous)",,4625,gnd
-"Loison, Joseph-Jacques",,5138,gnd
+"Loison, Joseph-Jacques","['https://viaf.org/viaf/41834597', 'https://www.wikidata.org/wiki/Q42303537', 'http://catalogue.bnf.fr/ark:/12148/cb116247599', 'https://isni.org/isni/0000000000019271']",5138,gnd
 "Loison, Louis Henri, comte de (Schwager von Prous)","['http://catalogue.bnf.fr/ark:/12148/cb12540606v', 'http://dbpedia.org/resource/Louis_Henri_Loison', 'http://id.loc.gov/rwo/agents/n2007031095', 'http://isni.org/isni/0000000081514003', 'http://viaf.org/viaf/71504277', 'http://www.portraitindex.de/dokumente/pnd/128752491', 'http://www.wikidata.org/entity/Q643722', 'https://d-nb.info/gnd/128752491/about', 'https://de.wikipedia.org/wiki/Louis_Henri_Loison', 'https://en.wikipedia.org/wiki/Louis_Henri_Loison', 'https://kalliope-verbund.info/gnd/128752491']",4587,gnd
 "Lombard de Langres, Vincent","['http://catalogue.bnf.fr/ark:/12148/cb12240740s', 'http://id.loc.gov/rwo/agents/nr93021230', 'http://isni.org/isni/0000000121297729', 'http://viaf.org/viaf/41894390', 'http://www.wikidata.org/entity/Q23759004', 'https://d-nb.info/gnd/128577436/about', 'https://kalliope-verbund.info/gnd/128577436', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/128577436']",2947,gnd
 "Loménie de Brienne, Etienne-Charles de","['http://catalogue.bnf.fr/ark:/12148/cb12319373c', 'http://dbpedia.org/resource/%C3%89tienne_Charles_de_Lom%C3%A9nie_de_Brienne', 'http://id.loc.gov/rwo/agents/n82115624', 'http://isni.org/isni/0000000080938349', 'http://viaf.org/viaf/14840263', 'http://www.portraitindex.de/dokumente/pnd/11650823X', 'http://www.wikidata.org/entity/Q289522', 'https://d-nb.info/gnd/11650823X/about', 'https://de.wikipedia.org/wiki/%C3%89tienne_Charles_de_Lom%C3%A9nie_de_Brienne', 'https://en.wikipedia.org/wiki/%C3%89tienne_Charles_de_Lom%C3%A9nie_de_Brienne', 'https://kalliope-verbund.info/gnd/11650823X', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/11650823X']",3612,gnd
 "Lommessem, Frau von",,4340,gnd
-"Lommessem, Johann Wilhelm von",,2838,gnd
+"Lommessem, Johann Wilhelm von",['https://www.wikidata.org/wiki/Q1696571'],2838,gnd
 "London, Dr. (englischer Arzt)",,6327,gnd
 "Lorent, Monsieur (Restaurator aus Gent)",,4720,gnd
-"Lorin, Théodore",,4475,gnd
+"Lorin, Théodore","['https://viaf.org/viaf/286926558', 'https://isni.org/isni/0000000392787885', 'https://www.wikidata.org/wiki/Q18533811']",4475,gnd
 "Lormier (?), Monsieur (Dramatiker)",,2283,gnd
 "Lottum, Baron von",,4526,gnd
 "Louis IX, gen. Saint Louis","['http://catalogue.bnf.fr/ark:/12148/cb120344600', 'http://dbpedia.org/resource/Louis_IX_of_France', 'http://id.loc.gov/rwo/agents/n79055295', 'http://isni.org/isni/0000000121429736', 'http://viaf.org/viaf/89182909', 'http://www.portraitindex.de/dokumente/pnd/118729411', 'http://www.wikidata.org/entity/Q346', 'https://d-nb.info/gnd/1089108869', 'https://d-nb.info/gnd/118729411/about', 'https://d-nb.info/gnd/139344527', 'https://d-nb.info/gnd/158465474', 'https://d-nb.info/gnd/158731123', 'https://d-nb.info/gnd/187756090', 'https://de.wikipedia.org/wiki/Ludwig_IX._%28Frankreich%29', 'https://en.wikipedia.org/wiki/Louis_IX_of_France', 'https://www.archivportal-d.de/person/gnd/118729411', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/118729411']",3156,gnd
@@ -2244,7 +2244,7 @@ Louison (Hausangestellte von CdS in Paris),,5985,gnd
 "Louvetier, Monsieur",,6037,gnd
 "Lowe, Sir Hudson","['http://dbpedia.org/resource/Hudson_Lowe', 'http://id.loc.gov/rwo/agents/n95118372', 'http://isni.org/isni/0000000121247270', 'http://viaf.org/viaf/24780261', 'http://www.portraitindex.de/dokumente/pnd/119101262', 'http://www.wikidata.org/entity/Q922208', 'https://d-nb.info/gnd/119101262/about', 'https://de.wikipedia.org/wiki/Hudson_Lowe', 'https://en.wikipedia.org/wiki/Hudson_Lowe', 'https://kalliope-verbund.info/gnd/119101262', 'https://www.deutsche-digitale-bibliothek.de/person/gnd/119101262']",6033,gnd
 "Loyarts, Madame",,5864,gnd
-"Loyau de Lacy, E. d'Amboise, gen. Jonas",,3392,gnd
+"Loyau de Lacy, E. d'Amboise, gen. Jonas","['https://viaf.org/viaf/24145601975501321920', 'http://d-nb.info/gnd/1225797268']",3392,gnd
 "Loyson, Charles","['http://id.loc.gov/rwo/agents/no98060846', 'http://isni.org/isni/0000000123205883', 'http://viaf.org/viaf/44293963', 'http://www.hls-dhs-dss.ch/textes/d/D9915.php', 'http://www.wikidata.org/entity/Q3143595', 'https://d-nb.info/gnd/117252360/about', 'https://de.wikipedia.org/wiki/Hyacinthe_Loyson', 'https://en.wikipedia.org/wiki/Hyacinthe_Loyson', 'https://kalliope-verbund.info/gnd/117252360']",2665,gnd
 "Loyvet, Anna",,6360,gnd
 "Luce (de Lancival?), Monsieur",,5645,gnd
