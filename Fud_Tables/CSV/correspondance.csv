@@ -1,4 +1,4 @@
-SenderName,SenderGnDID,EmpfängerName,EmpfängerGnDID,DatumVersand,OrtVersand,OrtVersandID,OrtEmpfang,OrtEmpfangID,DatumEmpfang,FuD-Key,letzte Änderung,Dokumenttyp,URL,Nr.
+sender,senderID,adressee,adresseeID,senderDate,senderPlace,senderPlaceID,adresseePlace,adresseePlaceID,adresseeDate,key,letzte Änderung,Dokumenttyp,edition,Note
 ,,,,,,,,,,CdS-b2-003b,2021-06-15 15:12:30,Brief-Sonstige,https://constance-de-salm.de/#/document/7683,C03/S19/122-123
 "Sartorius, Franz Joseph (Bürgermeister von Bedburdyck)",http://d-nb.info/gnd/1017479658,,,1822-12-25,,,,,,CdS-b2-003w,2021-06-15 15:12:30,Brief-Sonstige,https://constance-de-salm.de/#/document/8427,C04/S31/001-008
 ,,,,1821-00-00,,,,,,CdS-b2-003t,2021-06-15 15:12:30,Brief-Sonstige,https://constance-de-salm.de/#/document/8288,C01/S04/086
