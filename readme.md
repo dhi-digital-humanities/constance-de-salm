@@ -20,6 +20,6 @@ Les fonds présentés ici documentent quelque 11 000 lettres issues de la corres
 [Constance de Salms correspondence (1767-1847)](http://constance-de-salm.de/)
 =
 
-This project takes inventory and offers the digitization of two collections linked to Constances de Salms correspondence. On one side the "Salm" fund kept by the "Société des Amis du Vieux Toulon et de sa Région", and on the other the "Constance de Salm" collection kept in the archives of Castle Dyck (member of the "Vereinigte Adelsarchive im Rheinland e.V.".
+This project takes inventory and offers the digitization of two collections linked to Constances de Salms correspondence. On one side the "Salm" fund kept by the "Société des Amis du Vieux Toulon et de sa Région", and on the other the "Constance de Salm" collection kept in the archives of Castle Dyck (member of the "Vereinigte Adelsarchive im Rheinland e.V.").
 
 The hereby presented funds document about 11 000 letters from the correspondence held by the french writer with her many friends, including contemporary writers, scholars and artists of renoun. All letters have been indexed, accessible through their metadatas and can be browsed online in their digital form.
