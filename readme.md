@@ -1,4 +1,4 @@
-> **Note:** This is a placeholder repository. The full version is available upon request to [info@dhi-paris.fr](mailto:info@dhi-paris.fr).
+> **Note :** ce dépôt est un dépôt provisoire (*placeholder*). Les données réelles sont disponibles sur demande à l'adresse suivante : [info@dhi-paris.fr](mailto:info@dhi-paris.fr).
 
 # [Die Korrespondenz der Constance de Salm (1767-1845)](http://constance-de-salm.de/)
 
